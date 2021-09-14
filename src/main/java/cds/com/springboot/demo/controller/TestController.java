@@ -11,6 +11,6 @@ public class TestController {
 
     @RequestMapping("/index")
     public String show(){
-        return "成功";
+        return "测试成功";
     }
 }
